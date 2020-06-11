@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   （株）ネットワーク応用通信研究所内
   TEL : 0852-28-9298 FAX : 0852-28-9398
 E-Mail : info@shimane-oss.org
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/os4site-example" # the subpath of your site, e.g. /blog
 url: "https://torukurahashi.github.io/os4site-example" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: os4
 github_username:  os4
