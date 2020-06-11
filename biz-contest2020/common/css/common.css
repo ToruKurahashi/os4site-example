@@ -60,7 +60,7 @@ p.logo{
 	margin-bottom: 20px;
 	padding-top: 10px;
 	padding-left: 20px;
-	background: url("/biz-contest2020/common/images/bg_header.gif") no-repeat 0 0;
+	background: url("/os4site-example/biz-contest2020/common/images/bg_header.gif") no-repeat 0 0;
 }
 
 /* main */
@@ -108,7 +108,7 @@ div.doc ul{
 div.doc ul li{
 	margin-bottom: 0.5em;
 	padding-left: 18px;
-	background: url("/biz-contest2020/common/images/icon_asterisk.gif") no-repeat 0 0.4em;
+	background: url("/os4site-example/biz-contest2020/common/images/icon_asterisk.gif") no-repeat 0 0.4em;
 }
 
 div.doc ul.notes li{
@@ -177,7 +177,7 @@ ul.menu{
 	width: 150px;
 	float: left;
 	padding-bottom: 5px;
-	background: #33CCCC url("/biz-contest2020/common/images/bg_menu_bottom.gif") no-repeat left bottom;
+	background: #33CCCC url("/os4site-example/biz-contest2020/common/images/bg_menu_bottom.gif") no-repeat left bottom;
 	list-style: none;
 	color: #fff;
 }
@@ -201,7 +201,7 @@ ul.menu li.submenu a{
 
 ul.menu li.first a{
 	padding-top: 15px;
-	background: url("/biz-contest2020/common/images/bg_menu_top.gif") no-repeat 0 0;
+	background: url("/os4site-example/biz-contest2020/common/images/bg_menu_top.gif") no-repeat 0 0;
 }
 
 /* footer */
@@ -220,7 +220,7 @@ div.footer p.pagetop{
 
 div.footer p.pagetop a{
 	padding-left: 17px;
-	background: url("/biz-contest2020/common/images/icon_pagetop.gif") no-repeat 0 50%;
+	background: url("/os4site-example/biz-contest2020/common/images/icon_pagetop.gif") no-repeat 0 50%;
 }
 
 div.footer address{

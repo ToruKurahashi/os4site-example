@@ -63,13 +63,13 @@ div.doc dl.attachment a{
 }
 
 div.doc dl.attachment a.pdf{
-	background-image: url("/biz-contest2020/common/images/icon_pdf.gif");
+	background-image: url("/os4site-example/biz-contest2020/common/images/icon_pdf.gif");
 }
 
 div.doc dl.attachment a.odt{
-	background-image: url("/biz-contest2020/common/images/icon_odt.gif");
+	background-image: url("/os4site-example/biz-contest2020/common/images/icon_odt.gif");
 }
 
 div.doc dl.attachment a.doc{
-	background-image: url("/biz-contest2020/common/images/icon_doc.gif");
+	background-image: url("/os4site-example/biz-contest2020/common/images/icon_doc.gif");
 }

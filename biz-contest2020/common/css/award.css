@@ -13,7 +13,7 @@ body.award h2{
 body.award a.pdf{
 	padding-bottom: 5px;
 	padding-left: 20px;
-	background: url("/biz-contest2020/common/images/icon_pdf.gif") no-repeat 0 0;
+	background: url("/os4site-example/biz-contest2020/common/images/icon_pdf.gif") no-repeat 0 0;
 }
 
 body.award p.summary{
@@ -109,7 +109,7 @@ body.award div.result div.section dl{
 body.award div.result div.section dt{
 	margin-bottom: 3px;
 	padding-left: 15px;
-	background: url("/biz-contest2020/common/images/icon_asterisk.gif") no-repeat 0 0.25em;
+	background: url("/os4site-example/biz-contest2020/common/images/icon_asterisk.gif") no-repeat 0 0.25em;
 	font-weight: bold;
 	font-size: 100%;
 }
